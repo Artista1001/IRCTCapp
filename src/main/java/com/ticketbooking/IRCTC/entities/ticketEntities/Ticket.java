@@ -1,6 +1,6 @@
-package com.tickerbooking.IRCTC.entities.ticketEntities;
+package com.ticketbooking.IRCTC.entities.ticketEntities;
 
-import com.tickerbooking.IRCTC.entities.trainEntities.Train;
+import com.ticketbooking.IRCTC.entities.trainEntities.Train;
 
 import java.util.Date;
 
